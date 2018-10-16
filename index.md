@@ -26,8 +26,23 @@
 * [Assignment 1](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_1.md)
 * [Assignment 2](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_2.md)
 
+## Modele głębokie uczenia maszynowego
+### Wykłady
+* [Wykład 1](https://eportal.pwr.edu.pl/mod/resource/view.php?id=31765)
+* [Wykład 2](https://eportal.pwr.edu.pl/mod/resource/view.php?id=31766)
+
+### Laboratorium
+* [Ćwiczenie 1 - MLP](https://eportal.pwr.edu.pl/pluginfile.php/54804/mod_assign/introattachment/0/Cwiczenie1.pdf)
+
+## Podstawy biznesu i ochrona własności intelektualnej
+### Wykłady
+* [Wykład 1](/files/W_1.pdf)
+
 ## Przetwarzanie danych masowych
 ### Laboratorium
 * [Listy zadań](https://github.com/Large-scale-data-processing/task-lists-2018)
 * [Lista 1](https://github.com/Large-scale-data-processing/l1-2018)
 * [Lista 2](https://github.com/Large-scale-data-processing/l2-2018-base)
+
+# Konsultacje
+* Tagowski Kamil - 13.00-14.00 (441 A1)
