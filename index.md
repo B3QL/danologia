@@ -31,9 +31,12 @@
 ### Wykłady
 * [Wykład 1](https://eportal.pwr.edu.pl/mod/resource/view.php?id=31765)
 * [Wykład 2](https://eportal.pwr.edu.pl/mod/resource/view.php?id=31766)
+* [Wykład 3](https://eportal.pwr.edu.pl/mod/resource/view.php?id=32116)
 
 ### Laboratorium
+* [Terminarz zajęć](https://eportal.pwr.edu.pl/pluginfile.php/77645/mod_resource/content/1/kalendarz_dl_20182019.pdf)
 * [Ćwiczenie 1 - MLP](https://eportal.pwr.edu.pl/pluginfile.php/54804/mod_assign/introattachment/0/Cwiczenie1.pdf)
+* [Ćwiczenie 2 - CNN](https://eportal.pwr.edu.pl/pluginfile.php/77693/mod_assign/introattachment/0/Cwiczenie%202.pdf)
 
 ## Podstawy biznesu i ochrona własności intelektualnej
 ### Wykłady
