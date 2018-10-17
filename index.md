@@ -25,6 +25,7 @@
 ### Ćwiczenia
 * [Assignment 1](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_1.md)
 * [Assignment 2](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_2.md)
+* [Assignment 3](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_3.md)
 
 ## Modele głębokie uczenia maszynowego
 ### Wykłady
