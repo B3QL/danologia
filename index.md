@@ -45,8 +45,9 @@
 ## Przetwarzanie danych masowych
 ### Laboratorium
 * [Listy zadań](https://github.com/Large-scale-data-processing/task-lists-2018)
-* [Lista 1](https://github.com/Large-scale-data-processing/l1-2018)
-* [Lista 2](https://github.com/Large-scale-data-processing/l2-2018-base)
+* Lista 1 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l1.md) [Repozytorium](https://github.com/Large-scale-data-processing/l1-2018)
+* Lista 2 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l2.md) [Repozytorium](https://github.com/Large-scale-data-processing/l2-2018-base)
+* Lista 3 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l3.md) [Repozytorium](https://github.com/Large-scale-data-processing/l3-2018-base)
 
 # Konsultacje
 * Tagowski Kamil - 13.00-14.00 (441 A1)
