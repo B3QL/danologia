@@ -26,6 +26,7 @@
 * [Assignment 1](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_1.md)
 * [Assignment 2](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_2.md)
 * [Assignment 3](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_3.md)
+* [Assignment 4](https://github.com/datasciencePWR/SocialMediaAnalysis/blob/2018/2019-winter/Assignment_4.md)
 
 ## Modele głębokie uczenia maszynowego
 ### Wykłady
@@ -50,4 +51,5 @@
 * Lista 3 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l3.md) [Repozytorium](https://github.com/Large-scale-data-processing/l3-2018-base)
 
 # Konsultacje
-* Tagowski Kamil - 13.00-14.00 (441 A1)
+* Tagowski Kamil - środa 13.00-14.00 (441 A1)
+* Rajmund Klemiński - wtorek 13.00-14.00 (441 A1)
