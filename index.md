@@ -30,8 +30,9 @@
 ## Modele głębokie uczenia maszynowego
 ### Wykłady
 * [Wykład 1](https://eportal.pwr.edu.pl/mod/resource/view.php?id=31765)
-* [Wykład 2](https://eportal.pwr.edu.pl/mod/resource/view.php?id=31766)
+* [Wykład 2](https://eportal.pwr.edu.pl/mod/resource/view.php?id=32115)
 * [Wykład 3](https://eportal.pwr.edu.pl/mod/resource/view.php?id=32116)
+* [Wykład 4](https://eportal.pwr.edu.pl/mod/resource/view.php?id=32401)
 
 ### Laboratorium
 * [Terminarz zajęć](https://eportal.pwr.edu.pl/pluginfile.php/77645/mod_resource/content/1/kalendarz_dl_20182019.pdf)
