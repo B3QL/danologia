@@ -50,6 +50,9 @@
 * Lista 1 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l1.md) [Repozytorium](https://github.com/Large-scale-data-processing/l1-2018)
 * Lista 2 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l2.md) [Repozytorium](https://github.com/Large-scale-data-processing/l2-2018-base)
 * Lista 3 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l3.md) [Repozytorium](https://github.com/Large-scale-data-processing/l3-2018-base)
+* Lista 4 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l4.md) [Repozytorium](https://github.com/Large-scale-data-processing/l4-2018-base)
+* Lista 5 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l5.md) [Repozytorium](https://github.com/Large-scale-data-processing/l5-2018-base)
+* Lista 6 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l6.md) [Repozytorium](https://github.com/Large-scale-data-processing/l6-2018-base)
 
 # Konsultacje
 * Tagowski Kamil - środa 13.00-14.00 (441 A1)
