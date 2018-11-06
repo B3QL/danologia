@@ -55,5 +55,6 @@
 * Lista 6 - [Instrukcja](https://github.com/Large-scale-data-processing/task-lists-2018/blob/master/l6.md) [Repozytorium](https://github.com/Large-scale-data-processing/l6-2018-base)
 
 # Konsultacje
-* Tagowski Kamil - środa 13.00-14.00 (441 A1)
+* Roman Bartusiak - poniedziałek 14.00-15.00 (441 A1)
 * Rajmund Klemiński - wtorek 13.00-14.00 (441 A1)
+* Tagowski Kamil - środa 13.00-14.00 (441 A1)
