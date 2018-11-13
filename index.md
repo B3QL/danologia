@@ -46,6 +46,7 @@
 * [Wykład 1](/files/W1.pdf)
 * [Wykład 2](/files/W2.pdf)
 * [Wykład 3 *(ten wykład może się lekko zmienić)*](/files/W3.pdf)
+* [Prezentacja Adama](/files/firma.pdf)
 
 ## Przetwarzanie danych masowych
 ### Laboratorium
