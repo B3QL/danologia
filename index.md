@@ -45,7 +45,8 @@
 * [Wykład 0](/files/W0.pdf)
 * [Wykład 1](/files/W1.pdf)
 * [Wykład 2](/files/W2.pdf)
-* [Wykład 3 *(ten wykład może się lekko zmienić)*](/files/W3.pdf)
+* [Wykład 3, 4](/files/W3_4.pdf)
+* [Wykład 5](/files/W5.pdf)
 
 ## Przetwarzanie danych masowych
 ### Laboratorium
