@@ -49,6 +49,7 @@
 * [Wykład 5](/files/W5.pdf)
 * [Prezentacja Adama](/files/firma.pdf)
 * [Poradnik](/files/Poradnik.pdf)
+* [Testownik ;)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Przetwarzanie danych masowych
 ### Laboratorium
