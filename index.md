@@ -50,6 +50,7 @@
 * [Prezentacja Adama](/files/firma.pdf)
 * [Poradnik](/files/Poradnik.pdf)
 * [Testownik ;)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Zadanie](/files/Zadanie.pdf)
 
 ## Przetwarzanie danych masowych
 ### Laboratorium
